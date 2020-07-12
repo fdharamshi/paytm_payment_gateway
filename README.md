@@ -1,2 +1,1 @@
-# paytm_payment_gateway
-Paytm Payment Gateway (Flutter + Node.Js)
+# Paytm Payment Gateway (Flutter + Node.Js)
